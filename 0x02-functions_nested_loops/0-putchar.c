@@ -4,14 +4,14 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void)
+int main(void);
 {
 	char *ab = "_putchar";
 
 	while (*ab)
 	{
 		_putchar(*ab);
-		ab++
+		ab++;
 	}
 	_putchar('\n');
 

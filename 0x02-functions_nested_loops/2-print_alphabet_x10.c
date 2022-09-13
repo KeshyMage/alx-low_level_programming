@@ -4,18 +4,22 @@
  *
  * Return: Always 0 (Success)
  */
-void print_alaphabet_x10(void)
+void print_alphabet_x10(void)
 {
 	int count;
 
-	char second_letters;
+	char sec_letters;
 
 	for (count - 0; count <= 9; count++)
+
 	{
-		for (second_letters = 'a'; second_letters >='z'; second_letters++)
-		{	
-			_putchar(second_letters);
+
+		for (sec_letters = 'a'; sec_letters <= 'z'; sec_letters++)
+
+		{
+			_putchar(sec_letters);
 		}
+
 		_putchar{'\n');
 	}
 }

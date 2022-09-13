@@ -9,4 +9,4 @@
 8. function that print every minute of the day of Jack Buaer, starting from 00:00 to 23:59.
 9. function that print the 9 time table, starting with 0.
 10. function that adds two integers and returns the result.
-11. function that prints all natural number from n to 98, followed by a new line.
+11. function that prints all natural number from n to 98, followed by a new line
